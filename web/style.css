@@ -4,9 +4,7 @@
     height: auto;
     
 }
-#p{
-    
-     color: red;
-     background-size: 20px;
-    
+.h1{
+    font-size: 30px;
+    color: aqua;
 }
