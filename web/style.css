@@ -5,7 +5,7 @@
     
 }
 h1{
-    font-size: 100px;
+    font-size: 18px;
     color: red;
-     animation-fill-mode:  backwards;
+    font-weight: lighter; 
 }
