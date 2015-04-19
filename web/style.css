@@ -1,14 +1,15 @@
-
 *{
+  padding: auto;
+  width: auto;
     
-    margin: 0;
-    padding: 0;
 }
+
 
 .teste{
     
-    width: auto;
-    height: auto;
+    position: relative;
+    width: 100%;
+    height: 100%;
     
 }
 h1{
