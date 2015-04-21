@@ -1,19 +1,14 @@
 *{
   margin: 0;
-  padding: 0;
-    
+  padding: 0; 
 }
-
 
 .teste{
-    
-    position: absolute;
-    width: auto;
-    height: auto;
-    
-}
+    resize: 100%;
+    width: 440px;
+    height: 200px;
+    }
 h1{
     font-size: 18px;
     color: red;
-    
-}
+    }
