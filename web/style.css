@@ -14,13 +14,6 @@ h1{
     }
 
 p:layout p:layoutUnit p:menu p:submenu p:menuitem {
-
+color: red;
 }
 
-p:layout p:layoutUnit p:menu p:submenu p:menuitem {
-
-}
-
-p:layout p:layoutUnit p:menu p:submenu p:menuitem {
-
-}
